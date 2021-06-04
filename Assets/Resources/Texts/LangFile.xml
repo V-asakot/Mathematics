@@ -1,0 +1,63 @@
+<Data>
+	<EN Key = "MATHEMATICS" Word = "MATHEMATICS"/>
+	<EN Key = "ChooseGame" Word = "Choose a game!"/>
+	<EN Key = "RECORDS" Word = "RECORDS"/>
+	<EN Key = "YourBest" Word = "Your best result"/>
+	<EN Key = "YourResult" Word = "Your result"/>
+	<EN Key = "Time" Word = "Time:"/>
+	<EN Key = "Errors" Word = "Errors:"/>
+	<EN Key = "Done" Word = "Done:"/>
+	<EN Key = "ChooseLevel" Word = "Choose a level!"/>
+	<EN Key = "Easy" Word = "Easy"/>
+	<EN Key = "Average" Word = "Average"/>
+	<EN Key = "Hard" Word = "Hard"/>
+	<EN Key = "MORETASKS" Word = "MORE TASKS
+AND WITHOUT ADVERTISING"/>
+	<EN Key = "BuyFor" Word = "Buy for 1$"/>
+	<EN Key = "Features" Word = "&lt;color=#FB578A&gt;✔&lt;/color&gt; More than 30 new tasks &#10;&#10;&lt;color=#FB578A&gt;✔&lt;/color&gt; Hard mode in all games &#10;&#10;&lt;color=#FB578A&gt;✔&lt;/color&gt; No annoying ads"/>
+	<EN Key = "InFull" Word = "In the full version:"/>
+	<EN Key = "ChooseNumber" Word = "Choose the multiplication number"/>
+	<EN Key = "All" Word = "All"/>
+	<EN Key = "RepeatTable" Word = "Repeat the multiplication table"/>
+	<EN Key = "RepeatNumbers" Word = "Repeat numbers"/>
+	<EN Key = "ToMenu" Word = "To the menu"/>
+	<EN Key = "ToChange" Word = "To change an example, &#10;tap on the screen"/>
+	<EN Key = "Settings" Word = "SETTINGS"/>
+	<EN Key = "Audio" Word = "Audio"/>
+	<EN Key = "Music" Word = "Music"/>
+	<EN Key = "YouHave" Word = "You have not played :("/>
+	<EN Key = "Next" Word = "Next"/>
+	<EN Key = "Start" Word = "Start"/>
+	<EN Key = "Lang" Word = "English"/>
+  
+	<RU Key = "MATHEMATICS" Word = "МАТЕМАТИКА"/>
+	<RU Key = "ChooseGame" Word = "Выбери игру!"/>
+	<RU Key = "RECORDS" Word = "РЕКОРДЫ"/>
+	<RU Key = "YourBest" Word = "Твой лучший результат"/>
+	<RU Key = "YourResult" Word = "Твой результат"/>
+	<RU Key = "Time" Word = "Время:"/>
+	<RU Key = "Errors" Word = "Ошибок:"/>
+	<RU Key = "Done" Word = "Решено:"/>
+	<RU Key = "ChooseLevel" Word = "Выбери уровень!"/>
+	<RU Key = "Easy" Word = "Лёгкий"/>
+	<RU Key = "Average" Word = "Средний"/>
+	<RU Key = "Hard" Word = "Сложный"/>
+	<RU Key = "MORETASKS" Word = "БОЛЬШЕ ЗАДАЧ&#10;И БЕЗ РЕКЛАМЫ"/>
+	<RU Key = "BuyFor" Word = "Купить за 59 руб"/>
+	<RU Key = "Features" Word = "&lt;color=#FB578A&gt;✔&lt;/color&gt; На 30 заданий больше &#10;&#10;&lt;color=#FB578A&gt;✔&lt;/color&gt; Усложненные режимы &#10;&#10;&lt;color=#FB578A&gt;✔&lt;/color&gt; Отсутствие рекламы"/>
+	<RU Key = "InFull" Word = "В полной версии:"/>
+	<RU Key = "ChooseNumber" Word = "Выбери цифру умножения"/>
+	<RU Key = "All" Word = "Все"/>
+	<RU Key = "RepeatTable" Word = "Повтори таблицу умножения"/>
+	<RU Key = "RepeatNumbers" Word = "Повторяем цифры"/>
+	<RU Key = "ToMenu" Word = "В меню"/>
+	<RU Key = "ToChange" Word = "Для смены примера нажмите по экрану"/>
+	<RU Key = "Settings" Word = "НАСТРОЙКИ"/>
+	<RU Key = "Audio" Word = "Звук"/>
+	<RU Key = "Music" Word = "Мелодия"/>
+	<RU Key = "YouHave" Word = "Вы ещё не играли :("/>
+	<RU Key = "Next" Word = "Далее"/>
+	<RU Key = "Start" Word = "Начать"/>
+	<RU Key = "Lang" Word = "Русский"/>
+
+</Data>
